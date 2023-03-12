@@ -23,12 +23,12 @@ Start at the Server Manager Dashboard and open Tools, located on the top right c
 
 <br />
 I would recommend pining Active Directory Users and Computers to your taskbar, since this starting point will be used very often.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%202.png"/>
 <br />
 
 
 <br />
-Now, lets create a new user. First, take a look at the tasks list on the right. Under the Users section, there's a New menu entry, which opens a submenu to select what's the type of entity that you want to create. In this case, we want to create a new user, so click User. <br/>
+Next, you would double click on Domain (ReggieTech), select users and then right click on Administrator and select Copy.  <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%203.png"/>
 <br />
 
