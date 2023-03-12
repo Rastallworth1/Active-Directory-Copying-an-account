@@ -54,6 +54,8 @@ Once you select copy, fill out all the account information and assign an account
 Now the Administrator 2 account has been created. Next, double click the account and select Member Of from the top to verify the new account belongs to the same groups as the original Administrator account.  <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%206.png"/>
 <br />
+<br />
+Notice the Administrator 2 account belongs to the same groups as the orginal Administrator account. <br/>  
 
   
 
