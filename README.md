@@ -45,7 +45,7 @@ In this instance the Administrator is a member of 6 groups with specific permiss
 
 <br />
 Once you select copy, fill out all the account information and assign an account password to create the account.  <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%205%20first.png"/>
 <br />
 <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
