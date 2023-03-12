@@ -28,18 +28,17 @@ I would recommend pining Active Directory Users and Computers to your taskbar, s
 
 
 <br />
-Next, you would double click on Domain (ReggieTech), select users and then right click on Administrator and select Copy.  <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%203.png"/>
-<br />
-
-
-<br />
-In this instance the Administrator is a member of 6 groups with specific permissions.<br/>
+Next, you would double click on Domain (ReggieTech), select users and then double click on Administrator and select member of. In this instance the Administrator is a member of 6 groups with specific permissions.  <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%204.png"/>
-<br /> <br /> Each time you create an administrator, you would have to give him those permissions and assign him to each group. This could be tedious and time consuming. To make this more efficient, we could simply copy the account and just change the user information.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
 <br />
+<br /> Each time you create an administrator, you would have to give him those permissions and assign him to each group. This could be tedious and time consuming. To make this more efficient, we could simply copy the account and just change the user information.
+<br/>
 
+
+<br />
+To copy the account, right click on Administrator and select Copy. <br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%203.png"/>
+<br /> 
 
 
 
@@ -52,8 +51,8 @@ Once you select copy, fill out all the account information and assign an account
 <br />
 
   <br />
-Now the Administrator 2 account has been created. Simple double click the account and select Member Of from the top to verify it belongs to the same groups as the original Administrator account. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%206%20Top.png"/>
+Now the Administrator 2 account has been created. Next, double click the account and select Member Of from the top to verify the new account belongs to the same groups as the original Administrator account.  <br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%206.png"/>
 <br />
 
   
