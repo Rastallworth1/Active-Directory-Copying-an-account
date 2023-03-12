@@ -17,12 +17,12 @@ In some cases you may want to create an account and not go through the process o
 
 <p align="center">
 Start at the Server Manager Dashboard and open Tools, located on the top right corner. From there, select Active Directory Users and Computers.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/AD%20Home.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%201.png"/>
 <br />
 
 
 <br />
-For this home lab, we want to create a new user called Reggie. First, click on the example (local) entry. This is the entry for the domain that your account can manage. Next, scroll down and double click on the Users entry to see the list of users and groups that currently exist.<br/>
+I would recommend pining Active Directory Users and Computers to your taskbar, since this starting point will be used very often.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
 <br />
 
