@@ -35,18 +35,19 @@ Next, you would double click on Domain (ReggieTech), select users and then right
 
 <br />
 In this instance the Administrator is a member of 6 groups with specific permissions.<br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%204.png"/>
+<br /> <br /> Each time you create an administrator, you would have to give him those permissions and assign him to each group. This could be tedious and time consuming. To make this more efficient, we could simply copy the account and just change the user information.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
 <br />
-<br />
-Each time you create an administrator, you would have to give him those permissions and assign him to each group. This could be tedious and time consuming. To make this more efficient, we could simply copy the account and just change the user information.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
-<br />
 
 
 
 
 <br />
-Once you click on the newly created account, you will see that where it displays the name of the user, the system says Reggie (Disabled). This is a problem, but it can be easily fixed by enabling it. <br/>
+Once you select copy, fill out all the account information and assign an account password to create the account.  <br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
+<br />
+<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
 <br />
 
