@@ -29,16 +29,18 @@ I would recommend pining Active Directory Users and Computers to your taskbar, s
 
 <br />
 Next, you would double click on Domain (ReggieTech), select users and then right click on Administrator and select Copy.  <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%203.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%203.png"/>
 <br />
 
 
 <br />
-This will open a new window that lets you fill in a number of fields related to the new user. There are numerous fields available, but only a few are mandatory, which are marked with a read asterisk. You can leave the rest empty. The user that we are creating is called Reggie, with their username being also Reggie.<br/>
+In this instance the Administrator is a member of 6 groups with specific permissions.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
 <br />
-<br />Once you've entered the necessary information, click the OK button to create the user (Reggie). 
-<br/>
+<br />
+Each time you create an administrator, you would have to give him those permissions and assign him to each group. This could be tedious and time consuming. To make this more efficient, we could simply copy the account and just change the user information.<br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
+<br />
 
 
 
